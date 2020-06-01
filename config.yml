@@ -1,0 +1,12 @@
+author:
+  name: Egotistical Giraffe
+baseURL: 'https://egotisticalgiraffe.com'
+languageCode: en
+menu:
+  main:
+    - name: About
+      url: /about
+params:
+  description: I have a bad feeling about this...
+title: Egotistical Giraffe
+theme: Blogpaper
