@@ -1,3 +1,19 @@
+---
+draft: true
+title: Demonstrator's Guide to Tech Safety
+date: 2020-06-02
+tags:
+  - protest
+  - demonstration
+  - rally
+  - action
+  - tech
+  - safety
+  - tech safety
+  - InfoSec
+  - security
+---
+
 # Demonstrator's guide to tech safety
 
 It is important to understand that you are taking these actions not only to protect yourself - but to protect those around you. For example - a single seized phone may lead to the arrest of your entire group chat.
