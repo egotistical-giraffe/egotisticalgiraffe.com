@@ -10,7 +10,7 @@ Your actions may be entirely nonviolent, but your presence with the demonstratio
 
 - [ ] Set a strong passcode on your cell phone (make it alphanumberic - PINs can be broken in minutes to hours)
 - [ ] Completely turn off location services (guides for: [iPhone](https://support.apple.com/en-us/HT207092) and [Android](https://support.google.com/accounts/answer/3467281?hl=en))
-- [ ] Ensure you have plenty of storage and available
+- [ ] Ensure you have plenty of storage available
 - [ ] Charge your phone fully
 - [ ] Download map if unfamiliar with area
 - [ ] Ensure all electronic devices you plan to leave at home (for example, laptop) have full disk encryption turned on, then completely power them off.
