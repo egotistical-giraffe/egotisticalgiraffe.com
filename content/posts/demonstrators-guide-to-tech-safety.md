@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Demonstrator's Guide to Tech Safety
+summary: Protecting demonstrators from technological tyranny at actions.
 date: 2020-06-02
 tags:
   - protest
@@ -12,6 +13,8 @@ tags:
   - tech safety
   - InfoSec
   - security
+banner:
+  src: civil-rights-march.jpg
 ---
 
 # Demonstrator's guide to tech safety
@@ -51,7 +54,7 @@ Your actions may be entirely nonviolent, but your presence with the demonstratio
 ### Photography
 
 - Leave your phone locked while taking photos
-- Try to avoid photographing demonstrators' faces. This could place them in danger of being doxxed and attacked later. Yes, this *does* happen.
+- Try to avoid photographing demonstrators' faces. This could place them in danger of being doxxed and attacked later. Yes, [this *does* happen](https://www.nbcnews.com/news/us-news/puzzling-number-men-tied-ferguson-protests-have-died-n984261).
 
 ### If you are about to be detained
 
