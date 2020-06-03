@@ -9,7 +9,7 @@ tags: # Optional, will be displayed at the bottom end of the post
 - TOR
 - Privacy
 - Anonymity
-summary: The brower you use to research catastrophic liver failure without raising your insurance premiums.
+summary: The browser you use to research catastrophic liver failure without raising your insurance premiums.
 draft: true
 banner:
   #src: the-fuck-is-tor.jpg # Optional, the filename of the banner, by default the-fuck-is-tor.jpg
