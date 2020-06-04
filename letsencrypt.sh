@@ -1,7 +1,7 @@
 
 docker run -it --rm --name certbot \
   -v /egotisticalgiraffe.com/letsencrypt/:/etc/letsencrypt \
-  -v /egotisticalgiraffe.certbot/letsencrypt/log:/var/log/letsencrypt \
+  -v /egotisticalgiraffe.com/letsencrypt/log:/var/log/letsencrypt \
   -p 80:80 \
   certbot/certbot -t certonly \
   --standalone \
