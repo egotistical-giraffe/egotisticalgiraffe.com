@@ -10,4 +10,4 @@ services:
     volumes:
       - ./nginx:/etc/nginx
       - ./letsencrypt:/etc/letsencrypt
-      - ./public:/var/www/html
+      - ./public:/var/www/egotisticalgiraffe.com
