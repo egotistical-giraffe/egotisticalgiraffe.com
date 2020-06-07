@@ -15,6 +15,8 @@ tags:
   - InfoSec
   - security
 banner:
+  caption: Photo by Jakayla Toney
+  href: https://unsplash.com/@ms_horrendous
 ---
 
 It is important to understand that you are taking these actions not only to protect yourself - but to protect those around you. For example - a single seized phone may lead to the arrest of your entire group chat.
