@@ -3,13 +3,11 @@ version: '3.7'
 services:
   hugo:
     image: klakegg/hugo
-    command: server
+    command: server --environment production
     volumes:
       - './:/src'
     networks:
       - reverse_proxy_net
-    environment:
-      HUGO_ENV_ARG: 'production'
   nginx:
     image: nginx
     depends_on:
