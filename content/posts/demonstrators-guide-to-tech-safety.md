@@ -38,7 +38,7 @@ Your actions may be entirely nonviolent, but your presence with the demonstratio
 ### Your group:
 
 - Download the [Signal messaging app](https://signal.org)
-  - Turn on expiring messages in your conversation and set to time of 30 minutes or less
+  - Turn on expiring messages in your conversation and set to timeout of one hour or less
   - Keep message groups small
 - Agree on rendezvous point far from action location. Remember, you won't be able to safely use data at the action.
 
