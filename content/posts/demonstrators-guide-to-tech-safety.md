@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Demonstrator's Guide to Tech Safety
+title: Demonstrators Guide to Tech Safety
 subtitle: Protecting demonstrators from technological tyranny at actions
 summary: Protecting demonstrators from technological tyranny at actions
 date: 2020-06-06
@@ -15,7 +15,6 @@ tags:
   - InfoSec
   - security
 banner:
-  src: posts/civil-rights-march.jpg
 ---
 
 It is important to understand that you are taking these actions not only to protect yourself - but to protect those around you. For example - a single seized phone may lead to the arrest of your entire group chat.
