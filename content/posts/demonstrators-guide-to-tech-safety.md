@@ -72,10 +72,15 @@ Your actions may be entirely nonviolent, but your presence with the demonstratio
 
 ## After action
 
-### Make sure everyone is ok!
+### Make sure everyone is ok
 
-- This goes without saying
+- This goes without saying!
 
 ### Be mindful of what you post
 
-- Blackout faces. Blurs are often reversible with software.
+- **If you post photos on the internet**, know that this is saying that you were there.
+- Never tag anyone else without their express consent
+- Blackout or blur faces
+- Scrub photo EXIF data (metadata)
+  - Screenshot image OR better:
+  - Use a dedicated [EXIF scrubber tool](https://everestpipkin.github.io/image-scrubber/)
