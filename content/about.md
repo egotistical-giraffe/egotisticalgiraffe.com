@@ -2,7 +2,6 @@
 title: About
 subtitle: About Egotistical Giraffe
 description: Providing Security, Privacy  and Anonymity tools to the modern activist - or citizen!
-date: 2020-06-01
 aliases:
   - about-us
   - about-egotistical-giraffe
