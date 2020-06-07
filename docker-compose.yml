@@ -8,6 +8,8 @@ services:
       - './:/src'
     networks:
       - reverse_proxy_net
+    environment:
+      HUGO_ENV_ARG: 'production'
   nginx:
     image: nginx
     depends_on:
