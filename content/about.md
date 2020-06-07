@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: About Egotistical Giraffe
+subtitle: What is an Egotistical Giraffe? What does it do?
 description: Providing Security, Privacy and Anonymity tools to the modern citizen
 aliases:
   - about-us
