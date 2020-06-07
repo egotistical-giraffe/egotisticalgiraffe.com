@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: About Egotistical Giraffe
-description: Providing Security, Privacy  and Anonymity tools to the modern citizen!
+description: Providing Security, Privacy and Anonymity tools to the modern citizen!
 aliases:
   - about-us
   - about-egotistical-giraffe
