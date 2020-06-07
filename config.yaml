@@ -7,6 +7,6 @@ menu:
     - name: About
       url: /about
 params:
-  description: I have a bad feeling about this...
+  description: Providing Security, Privacy  and Anonymity tools to the modern citizen
 title: Egotistical Giraffe
 theme: Blogpaper

@@ -1,6 +1,6 @@
 ---
 title: Actually Private Browsing
-date: 2020-06-06T23:38:22-08:00
+date: 2020-06-05
 draft: false
 ---
 

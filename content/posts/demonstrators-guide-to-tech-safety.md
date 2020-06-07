@@ -1,8 +1,9 @@
 ---
 draft: true
 title: Demonstrator's Guide to Tech Safety
-summary: Protecting demonstrators from technological tyranny at actions.
-date: 2020-06-02
+subtitle: Protecting demonstrators from technological tyranny at actions
+summary: Protecting demonstrators from technological tyranny at actions
+date: 2020-06-06
 tags:
   - protest
   - demonstration
@@ -14,7 +15,7 @@ tags:
   - InfoSec
   - security
 banner:
-  src: civil-rights-march.jpg
+  src: posts/civil-rights-march.jpg
 ---
 
 # Demonstrator's guide to tech safety
