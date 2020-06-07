@@ -1,1 +1,1 @@
-# Security, Privacy, and Anonymity resources as needed
+# Security, Privacy, and Anonymity resources for the modern citizen
