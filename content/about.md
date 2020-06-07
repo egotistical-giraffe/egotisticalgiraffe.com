@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: What is an Egotistical Giraffe? What does it do?
-description: Providing Security, Privacy and Anonymity tools to the modern citizen
+description: Providing Security, Privacy and Anonymity resources to the modern citizen
 aliases:
   - about-us
   - about-egotistical-giraffe
