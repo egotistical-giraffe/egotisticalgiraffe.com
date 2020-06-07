@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: About Egotistical Giraffe
-description: About Egotistical Giraffe
+description: Providing Security, Privacy  and Anonymity tools to the modern activist - or citizen!
 date: 2020-06-01
 aliases:
   - about-us
@@ -13,4 +13,9 @@ author: Egotistical Giraffe
 #   href:
 #   src:
 ---
-Placeholder about page goes here
+
+The name "Egotistical Giraffe" comes from the NSA's program to de-anonymize TOR users. We're not their biggest fans here; we think that was a real dick move.
+
+This site is meant to be fairly private. It's a static site - no content management systems to leave all kinds of logs, and no cookies to track you all over the internet. We don't use Google Analytics here because we're not about that life. The Nginx server logs stay on for debugging but that's about it.
+
+The site is served over HTTPS. This means the feds can see that you're visiting this site - but they can't see which pages you're visiting (unless you're signed into your browser's sync function...but that one you'll have to sort out on your own). More on this guide here.
