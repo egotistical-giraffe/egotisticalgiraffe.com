@@ -1,6 +1,6 @@
 ---
 title: Egotistical Giraffe
-subtitle: I have a bad feeling about this...
+subtitle: Security, Privacy, and Anonymity resources for the modern activist
 banner:
   src: banner.jpg
 ---
