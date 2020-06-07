@@ -13,7 +13,7 @@ author: Egotistical Giraffe
 #   src:
 ---
 
-The name "Egotistical Giraffe" comes from the NSA's program to de-anonymize TOR users. We're not their biggest fans here; we think that was a real dick move.
+The name "Egotistical Giraffe" comes from [the NSA's program to de-anonymize TOR users](https://www.theguardian.com/world/interactive/2013/oct/04/egotistical-giraffe-nsa-tor-document). We're not their biggest fans here; we think that was a real dick move.
 
 This site is meant to be fairly private. It's a static site - no content management systems to leave all kinds of logs, and no cookies to track you all over the internet. We don't use Google Analytics here because we're not about that life. The Nginx server logs stay on for debugging but that's about it.
 
