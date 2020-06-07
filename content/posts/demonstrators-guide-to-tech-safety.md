@@ -18,8 +18,6 @@ banner:
   src: posts/civil-rights-march.jpg
 ---
 
-# Demonstrator's guide to tech safety
-
 It is important to understand that you are taking these actions not only to protect yourself - but to protect those around you. For example - a single seized phone may lead to the arrest of your entire group chat.
 
 Your actions may be entirely nonviolent, but your presence with the demonstration places you at risk of guilt by association.
