@@ -88,6 +88,6 @@ These tips are based on known information about the technical capacity of Americ
 - **If you post photos on the internet**, know that this is saying that you were there.
 - *Never* tag *anyone* without their *express consent*.
 - Blackout or blur faces.
-- Scrub photo EXIF data (metadata)
+- Scrub photo EXIF data (metadata).
   - Screenshot image OR better:
-  - Use a dedicated [EXIF scrubber tool](https://everestpipkin.github.io/image-scrubber/)
+  - Use a dedicated [EXIF scrubber tool](https://everestpipkin.github.io/image-scrubber/).
