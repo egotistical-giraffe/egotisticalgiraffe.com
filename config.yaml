@@ -7,6 +7,6 @@ menu:
     - name: About
       url: /about
 params:
-  description: Providing Security, Privacy  and Anonymity tools to the modern citizen
+  description: Providing Security, Privacy and Anonymity tools to the modern citizen
 title: Egotistical Giraffe
 theme: Blogpaper
