@@ -35,7 +35,7 @@ These tips are based on known information about the technical capacity of Americ
 ### You:
 
 - Set a strong passcode on your cell phone (make it alphanumberic - PINs can be broken in minutes to hours).
-- Disable cloud backups.
+- Disable cloud backups (guides for [iPhone](https://www.howtogeek.com/662872/how-to-disable-and-delete-icloud-backup-on-iphone-and-ipad/) and [Android](https://support.google.com/android/answer/2819582?hl=en)).
 - Completely turn off location services (guides for: [iPhone](https://support.apple.com/en-us/HT207092) and [Android](https://support.google.com/accounts/answer/3467281?hl=en)).
 - Ensure you have plenty of storage available.
 - Charge your phone fully.
