@@ -1,8 +1,17 @@
 version: '3.7'
 
 services:
+  hugo:
+    image: klakegg/hugo
+    command: server
+    volumes:
+      - './:/src'
+    networks:
+      - reverse_proxy_net
   nginx:
     image: nginx
+    depends_on:
+      - hugo
     restart: unless-stopped
     ports:
       - '80:80'
@@ -11,3 +20,7 @@ services:
       - ./nginx:/etc/nginx
       - ./letsencrypt:/etc/letsencrypt
       - ./public:/var/www/egotisticalgiraffe.com
+    networks:
+      - reverse_proxy_net
+networks:
+  reverse_proxy_net:
