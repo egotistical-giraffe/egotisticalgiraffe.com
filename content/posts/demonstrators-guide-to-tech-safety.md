@@ -19,11 +19,14 @@ banner:
   href: https://jakaylatoney.myportfolio.com
 ---
 
+
 It is important to understand that you are taking these actions not only to protect yourself - but to protect those around you. For example - a single seized phone may lead to the arrest of your entire group chat.
 
 Your actions may be entirely nonviolent, but your presence with the demonstration places you at risk of guilt by association. No, that's not supposed to be legal; yes, it does happen anyway.
 
 These tips are based on known information about the technical capacity of American police forces. They will help protect you from surveillance but are NOT infallible. Supplement them with your own knowledge and be vigilant.
+
+*Credit to [Everest Pipkin](https://twitter.com/everestpipkin) for providing the original document that inspired this site.*
 
 ---
 
