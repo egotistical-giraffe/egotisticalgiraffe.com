@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Demonstrators Guide to Tech Safety
 subtitle: Protecting demonstrators from technological tyranny at actions
 summary: Protecting demonstrators from technological tyranny at actions
