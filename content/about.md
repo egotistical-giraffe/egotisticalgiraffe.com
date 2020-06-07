@@ -13,4 +13,4 @@ author: Egotistical Giraffe
 #   href:
 #   src:
 ---
-Placeholder about page
+Placeholder about page goes here
