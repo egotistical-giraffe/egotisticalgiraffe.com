@@ -3,7 +3,7 @@ version: '3.7'
 services:
   hugo:
     image: klakegg/hugo
-    command: server --environment production
+    command: server --environment production --disableLiveReload
     volumes:
       - './:/src'
     networks:
